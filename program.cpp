@@ -1,6 +1,11 @@
 #include "stdio.h"
 
-void method()
+void bug(bool p)
+{
+	
+}
+
+bool sort(int * ptr)
 {
 	
 }
